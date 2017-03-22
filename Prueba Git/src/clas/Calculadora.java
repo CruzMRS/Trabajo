@@ -26,7 +26,7 @@ public class Calculadora {
 	
 	public int multy()
 	{
-		return y * x;
+		return y / x;
 	}
 
 }
