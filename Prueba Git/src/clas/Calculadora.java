@@ -18,5 +18,10 @@ public class Calculadora {
 	{
 		return x + y;
 	}
+	
+	public int resta()
+	{
+		return x + y;
+	}
 
 }
