@@ -1,8 +1,8 @@
 package clas;
 
 public class Calculadora {
-	private int x = 0;
-	private int y = 0;
+	private int x;
+	private int y;
 	
 	public Calculadora(int x, int y)
 	{
@@ -22,6 +22,11 @@ public class Calculadora {
 	public int resta()
 	{
 		return x + y;
+	}
+	
+	public int multy()
+	{
+		return y * x;
 	}
 
 }
