@@ -6,7 +6,7 @@ public class Calculadora {
 	
 	public Calculadora(int x, int y)
 	{
-		
+		x = y;
 	}
 	
 	public static void main(String[] args)
